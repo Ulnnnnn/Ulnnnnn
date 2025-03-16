@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Aulan</h1><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<h1 align="center">Hi 👋, I'm Aulan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Informatic Engineering at <a href="http://www.unismuh.ac.id">University of Muhammadiyah Makassar</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 <h3 align="center"></h3>
